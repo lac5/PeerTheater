@@ -21,7 +21,8 @@
   "homepage": "https://github.com/larryc5/BitTheater#readme",
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "webtorrent": "^1.7.1"
   },
   "devDependencies": {
     "@vue/cli": "^4.5.15",
