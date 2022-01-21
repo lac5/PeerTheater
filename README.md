@@ -1,6 +1,6 @@
-# BitTheater
+# PeerTheater
 
-Watch videos together with friends. 
+Watch videos together with friends.
 
 ## Project setup
 
