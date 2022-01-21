@@ -1,8 +1,10 @@
-import HelloWorld from '../components/HelloWorld.vue'
+import Download from '../components/Download.vue';
+import Upload from '../components/Upload.vue';
 
 export default {
     name: 'App',
     components: {
-        HelloWorld
-    }
-}
+        Download,
+        Upload,
+    },
+};
