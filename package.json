@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/larryc5/BitTheater.git"
+    "url": "git+https://github.com/lac5/BitTheater.git"
   },
   "keywords": [],
   "author": "",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/larryc5/BitTheater/issues"
+    "url": "https://github.com/lac5/BitTheater/issues"
   },
-  "homepage": "https://github.com/larryc5/BitTheater#readme",
+  "homepage": "https://github.com/lac5/BitTheater#readme",
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
